@@ -3,9 +3,5 @@ Welcome to the Data Structures and Algorithms (DSA) repository! In this series I
 
 Connect with us :)<br/>
 
-YouTube: https://youtube.com/@CodeByRavi<br/>
-LinkedIn: https://www.linkedin.com/in/codebyravi1<br/>
-Twitter: https://twitter.com/codebyravi1<br/>
-Instagram: https://www.instagram.com/codebyravi1<br/>
-Facebook: https://www.facebook.com/codebyravi1<br/>
-E-mail: eredazeoops@gmail.com
+LinkedIn: https://www.linkedin.com/in/mrravikumar<br/>
+E-mail: ravikumar848700@gmail.com
