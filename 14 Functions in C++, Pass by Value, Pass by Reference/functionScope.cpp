@@ -9,7 +9,7 @@ int add(int n, int m){
 }
 
 int mul(){
-    int mul = n * m;    // we can not access (n, m) here
+    //int mul = n * m;    // we can not access (n, m) here
 
     cout<<z;        // we can access here
 }
@@ -21,7 +21,7 @@ int main(){
 
     cout<<add(a, b);
 
-    cout<<n<<m;         // we can not access
+    //cout<<n<<m;         // we can not access
 
     cout<<z;        // we can access here
 }
